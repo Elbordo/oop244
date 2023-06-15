@@ -1,0 +1,2 @@
+D:\college3s\oop244\WS10\lab\Debug\lab.exe
+D:\college3s\oop244\WS10\lab\Debug\lab.pdb
