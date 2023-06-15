@@ -1,0 +1,18 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+OOP244ZBB
+Workshop-8 part-2
+
+I learned how to define pure virtual functions and implement them by adding virtual at the beginning of the function and 
+assigning it to 0 at the end.
+I learned how to create abstract classes with virtual functions and then inherit it.
+I learned how to implement behavior using virtual functions by overriding the Shape::getSpecs pure virtual function to 
+receive label.
+I learned how to explain the difference between an abstract base class and a concrete class where abstract are usually 
+used as a base class and abstract class has to contain at least one pure virtual functions which is declared by key word 
+virtual and assigning this function to 0.Also abstract class can’t be used to create or modify objects and abstract class 
+can’t be instantiated when concrete can be. Concrete class is self sufficient and can be used to create and modify an object 
+and it doesn’t have any pure virtual functions.
+
+

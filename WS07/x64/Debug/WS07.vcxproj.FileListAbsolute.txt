@@ -1,0 +1,4 @@
+D:\college 3s\oop244\WS07\test\lab\x64\Debug\WS07.exe
+D:\college 3s\oop244\WS07\test\lab\x64\Debug\WS07.pdb
+D:\college 3s\oop244\WS07\asd\lab\x64\Debug\WS07.exe
+D:\college 3s\oop244\WS07\asd\lab\x64\Debug\WS07.pdb

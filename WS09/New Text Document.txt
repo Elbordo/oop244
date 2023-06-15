@@ -1,0 +1,2 @@
+        (Text&)*this = h1;
+if(ch!='\0')
