@@ -1,0 +1,2 @@
+D:\college 3s\oop244\WS03\DIY\x64\Debug\DIY.exe
+D:\college 3s\oop244\WS03\DIY\x64\Debug\DIY.pdb

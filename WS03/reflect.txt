@@ -1,0 +1,23 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+OOP244ZBB
+Workshop-3 part-2
+
+In this workshop I learned how to define a class type with private members within class 
+type and instantiate objects of class type :
+class a{
+private:
+  int b;
+public:
+void display() const;
+}
+Also I learned how to format output data with setf() and unsetf(), to change precision for decimal 
+numbers cout << setprecision(2) where “2” is number of numbers after coma, to change width of space 
+allowed to print message with cout.width(4) where 4 is space where our next message will fit.
+I learned how to query the state of an object with simple member functions that returns data of private 
+members within class double Train::getSpeed() const. Train:: to get access to private Train data, const 
+because we don’t want any changes or calculations in this function.
+I learned how to change the state of an object with member functions that checks constant and changes state of an 
+object accordingly to them.
+
