@@ -1,0 +1,16 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+OOP244ZBB
+Workshop-4 part-2
+
+In this workshop I learned how to create “Robot()” and implement default constructors to set default values by assigning 
+nullptr to all char members, 0 to all digits and false to bool for my class and overload them to set values of a class by 
+checking all new values for validity and initializing them in case of success.
+I learned how to create destructors and dealocate memory in them I also learned that we need to add ~ to make a destructor 
+so it basically looks like constructor but “~Robot()”.
+I learned how to initialize class member variables by dealocating all dynamic memory first, then checking all new variables 
+for validity and lastly assigning new variables to my empty class members.
+I learned how to release member pointers through queries. I used speed and isDeployed query to call the fastest train and 
+check the amount of deployed robots in my workshop.
+

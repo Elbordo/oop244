@@ -1,0 +1,17 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+OOP244ZBB
+Workshop-5 part-2
+
+In this workshop I learned how to define and create binary operators like assignment operators with “=”, “+=”, “-=”.In 
+binary operators we use current object and incoming value or reference to object. 
+I learned how to define and create a type conversion operator, so every time I call current object it automatically checks 
+for required type and responds with it.
+I learned how to define and create a unary operator like bool operator ~() that checks for a negative value.
+I learned how to define and create helper binary operator between classes like double operator+ (const Portfolio& le, const 
+Portfolio& ri); This function is needed to change value between to objects.
+I learned how to define and create a helper operator between primitive type and a class like  
+double operator+= (double& num, const Portfolio& por); This function is needed to add double value of an object to 
+double num and then return num.
+

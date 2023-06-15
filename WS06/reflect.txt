@@ -1,0 +1,16 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+OOP244ZBB
+Workshop-6 part-2
+In this workshop I learned how to define and implement multiple constructors for different situations when we need to 
+assign only small part of values or single value in the constructor.
+In this workshop I learned how to define and implement the rule of three for coping object to assign all values of one 
+object to another, assigning values to separate object values where needed and deleting dynamic memory to deallocate.
+In this workshop I learned how to read formatted data using istream to read from file or from input directly using custom 
+call like “istr” instead of “cin”
+In this workshop I learned how to write formatted data using ostream to write to file and print the output with custom calls 
+like “ostr” instead of “cout”.
+In this workshop I learned how to overload the extraction and insertion operators for I/O using iostream with them I can 
+read and print output with ostream and istream functions.
+
