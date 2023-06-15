@@ -1,0 +1,16 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+OOP244ZBB
+Final Project
+
+In this project I enriched my knowledge on files and derived classes. I learned how to use ifstream and ofstream with files 
+and how to use them with objects. I never tried to pointer object array and I had a lot of problems because of that especially 
+at the start of ms51. These problems were differences in function calls. Using functions from Item in AidMan was strange at 
+first but then I understood that all our classes are connected in a way so this seems more plausible. Display in List 
+function was strange as well, I didn’t know that it is possible to send cout and cin instead of istr and ostr. In function 
+Ship I didn’t get immediately that for saving linear formatted list I need to use display function with file as parameter 
+and << command to file. The hardest for me was load function in Aidman. As one of the first functions for this class I was 
+unfamiliar with this type of work with files and using pointer array. Easiest was Sort as it used bubble sort that copies 
+addresses.
+
